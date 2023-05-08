@@ -1,1 +1,0 @@
-(()=>{"use strict";console.log("Why did the chicken cross the road?")})();
