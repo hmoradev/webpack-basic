@@ -1,5 +1,5 @@
-function generateJoke() {
-    return "Why did the chicken cross the road?"
+function generateLog() {
+    return "Is it happy hour yet?"
 }
 
-export default generateJoke;
+export default generateLog;
