@@ -18,21 +18,15 @@ npm install
 
 ## Usage
 
-1. Build the project:
-
-npm run build
-
-This command will compile the JavaScript source code and generate the bundled files in the `dist` directory.
-
-2. Start the development server:
+1. Build and run the project:
 
 npm run dev
 
-This command will start a local development server and open the project in your default web browser. Any changes you make to the source files will automatically trigger a rebuild, and the changes will be reflected in the browser.
+This command will start a local development server and open the project in your default web browser. Any changes you make to the source files will automatically trigger a rebuild, and the changes will be reflected in the browser.It will also compile the JavaScript source code and generate the bundled files in the `dist` directory.
 
-3. Customize the project:
+2. Customize the project:
 
-You can modify the source files located in the `src` directory according to your project requirements. Update the HTML template (`index.html`), CSS styles (`styles.css`), and JavaScript logic (`app.js`) to build your desired application.
+You can modify the source files located in the `src` directory according to your project requirements. Update the HTML template (`template.html`), CSS styles (`main.scss`), and JavaScript logic (`index.js`) to build your desired application.
 
 ## Configuration
 
