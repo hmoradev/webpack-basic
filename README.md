@@ -6,7 +6,7 @@ This is a basic README file for the project "Project Name". The project is a sim
 
 1. Clone the repository to your local machine:
 
-git clone https://github.com/your-username/project-name.git
+git clone https://github.com/hmoradev/webpack-basic
 
 2. Navigate to the project directory:
 
